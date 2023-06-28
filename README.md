@@ -1,5 +1,5 @@
 # Twitter-Reddit-Sentiment-Analysis
-
+View the notebook on Colab: https://colab.research.google.com/drive/18uGiExlFtha1kOqJkJeOS76zmLddpzoo#scrollTo=ziNQWNiehT1d
 # What is Sentiment Analysis?
 Sentiment analysis, also known as opinion mining, is a natural language processing (NLP) technique used to determine the sentiment or emotion expressed in a piece of text, such as a sentence, paragraph, or document. It involves analyzing the subjective information in the text to classify it as positive, negative, or neutral.
 The goal of sentiment analysis is to understand and interpret the sentiment or attitude of the writer or speaker towards a particular subject or topic. By analyzing the sentiment of large volumes of text data, sentiment analysis can provide valuable insights for businesses, organizations, or individuals.
